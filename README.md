@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ayushman-26
+- 👀 I’m interested in Web Devlopment.
+- 🌱 I’m currently learning Frontend Web Devlopment.
+- 📫 How to reach me ayushmannaresh@gmail.com
+- 😄 Pronouns: he/him
